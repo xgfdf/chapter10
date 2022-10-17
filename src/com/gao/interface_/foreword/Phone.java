@@ -1,4 +1,4 @@
-package com.gao.interface_;
+package com.gao.interface_.foreword;
 
 //Phone 类 实现 UsbInterface
 //解读1. 即 Phone类需要实现 UsbInterface接口 规定/声明的方法

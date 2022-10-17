@@ -1,6 +1,6 @@
-package com.gao.interface_;
+package com.gao.interface_.foreword;
 
-public class Camera implements UsbInterface{//实现接口,就是把接口方法实现
+public class Camera implements UsbInterface {//实现接口,就是把接口方法实现
 
     @Override
     public void start() {

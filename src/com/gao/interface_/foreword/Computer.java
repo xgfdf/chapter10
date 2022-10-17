@@ -1,4 +1,4 @@
-package com.gao.interface_;
+package com.gao.interface_.foreword;
 
 public class Computer {
     //编写一个方法, 计算机工作

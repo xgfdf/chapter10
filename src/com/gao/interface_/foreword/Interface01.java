@@ -1,4 +1,8 @@
-package com.gao.interface_;
+package com.gao.interface_.foreword;
+
+import com.gao.interface_.foreword.Camera;
+import com.gao.interface_.foreword.Computer;
+import com.gao.interface_.foreword.Phone;
 
 public class Interface01 {
     public static void main(String[] args) {
