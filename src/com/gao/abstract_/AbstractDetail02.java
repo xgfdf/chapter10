@@ -24,7 +24,7 @@ class G extends E {
     }
 }
 
-//抽象类的本质还是类，所以可以有类的各种成员
+//抽象类的本质还是类，可以有类的各种成员
 abstract class D {
     public int n1 = 10;
     public static  String name = "小明";

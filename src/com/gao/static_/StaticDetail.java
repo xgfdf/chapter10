@@ -23,3 +23,12 @@ class B {
 class C {
     public static String address = "北京";
 }
+
+
+
+
+
+
+
+
+

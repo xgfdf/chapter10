@@ -1,4 +1,4 @@
-package com.hspedu.innerclass;
+package com.gao.innerclass;
 
 import com.hspedu.abstract_.AA;
 
