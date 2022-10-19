@@ -1,4 +1,4 @@
-package com.hspedu.interface_;
+package com.gao.interface_;
 
 public interface DBInterface { //项目经理
 

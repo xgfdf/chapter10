@@ -1,4 +1,4 @@
-package com.hspedu.interface_;
+package com.gao.interface_;
 
 //B程序员连接Oracle
 public class OracleDB implements DBInterface{

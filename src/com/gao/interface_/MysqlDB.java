@@ -1,5 +1,5 @@
-package com.hspedu.interface_;
-//A程序
+package com.gao.interface_;
+//A程序员
 public class MysqlDB implements DBInterface {
     @Override
     public void connect() {
