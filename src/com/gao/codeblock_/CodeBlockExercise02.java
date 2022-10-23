@@ -1,4 +1,4 @@
-package com.hspedu.codeblock_;
+package com.gao.codeblock_;
 
 public class CodeBlockExercise02 {
 }

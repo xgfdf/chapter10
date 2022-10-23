@@ -19,7 +19,8 @@ public class CodeBlockDetail01 {
         // 被创建一次，就会调用一次。
         // 如果只是使用类的静态成员时，普通代码块并不会执行
 
-        System.out.println(DD.n1);//8888, 静态模块块一定会执行
+        System.out.println(DD.n1);//8888, 静态模块一定会执行
+
 
     }
 }
