@@ -1,4 +1,4 @@
-package com.hspedu.abstract_;
+package com.gao.abstract_;
 
 abstract public class Employee {
     private String name;

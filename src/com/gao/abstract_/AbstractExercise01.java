@@ -1,4 +1,4 @@
-package com.hspedu.abstract_;
+package com.gao.abstract_;
 
 public class AbstractExercise01 {
     public static void main(String[] args) {

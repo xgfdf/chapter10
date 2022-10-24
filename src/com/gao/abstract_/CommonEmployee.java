@@ -1,4 +1,4 @@
-package com.hspedu.abstract_;
+package com.gao.abstract_;
 
 public class CommonEmployee extends Employee{
     public CommonEmployee(String name, int id, double salary) {

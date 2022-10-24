@@ -1,6 +1,6 @@
 package com.gao.abstract_;
 
-public class AA extends com.hspedu.abstract_.Template {
+public class AA extends com.gao.abstract_.Template {
 
     //计算任务
     //1+....+ 800000

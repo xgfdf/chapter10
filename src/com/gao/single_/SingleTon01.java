@@ -1,4 +1,4 @@
-package com.hspedu.single_;
+package com.gao.single_;
 
 public class SingleTon01 {
 
@@ -9,6 +9,8 @@ public class SingleTon01 {
         //通过方法可以获取对象
         GirlFriend instance = GirlFriend.getInstance();
         System.out.println(instance);
+
+
 
         GirlFriend instance2 = GirlFriend.getInstance();
         System.out.println(instance2);

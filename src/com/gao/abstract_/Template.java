@@ -1,4 +1,4 @@
-package com.hspedu.abstract_;
+package com.gao.abstract_;
 
 abstract public class Template { //抽象类-模板设计模式
 

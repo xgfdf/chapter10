@@ -1,4 +1,4 @@
-package com.hspedu.abstract_;
+package com.gao.abstract_;
 
 public class Manager extends Employee {
 

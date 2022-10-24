@@ -1,4 +1,4 @@
-package com.hspedu.single_;
+package com.gao.single_;
 
 /**
  * 演示懶漢式的單例模式
@@ -16,6 +16,12 @@ public class SingleTon02 {
         System.out.println(instance2);
 
         System.out.println(instance == instance2);//T
+
+        Object obj = true? new Integer(1) : new Double(2.0);
+        System.out.println(obj);
+        int a = Integer.valueOf(54);
+        System.out.println(a);
+
 
     }
 }
