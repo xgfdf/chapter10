@@ -3,6 +3,7 @@ package com.gao.interface_;
 public class ExtendsVsInterface {
     public static void main(String[] args) {
         LittleMonkey wuKong = new LittleMonkey("悟空");
+        System.out.println(wuKong.getName());
         wuKong.climbing();
         wuKong.swimming();
         wuKong.flying();
@@ -39,9 +40,13 @@ interface Birdable {
 //      可以理解 实现接口 是 对java 单继承机制的一种补充.
 class LittleMonkey extends Monkey implements Fishable,Birdable {
 
+
     public LittleMonkey(String name) {
         super(name);
     }
+
+
+
 
     @Override
     public void swimming() {

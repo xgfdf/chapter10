@@ -1,4 +1,4 @@
-package com.hspedu.interface_;
+package com.gao.interface_;
 
 public class InterfaceDetail01 {
     public static void main(String[] args) {
