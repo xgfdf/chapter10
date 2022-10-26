@@ -28,7 +28,7 @@ class Test{
     //主方法
     public static void  main(String  str[])
     {
-        Test a=new Test();//无参构造器
+        Test a = new Test();//无参构造器
     }
 
 }

@@ -10,6 +10,7 @@ class Person03 {
         // this.total = total;//错误，因为在static方法中，不可以使用this 关键字
         //改成下面这样就可以了！
         Person03.total = total;
+        System.out.println(Person03.total);
     }
     public Person03() {//构造器
         total++;

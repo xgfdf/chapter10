@@ -1,4 +1,4 @@
-package com.hspedu.static_;
+package com.gao.static_;
 
 public class StaticMethodDetail {
     public static void main(String[] args) {

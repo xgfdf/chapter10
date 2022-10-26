@@ -2,7 +2,7 @@ package com.gao.static_;
 
 public class StaticExercise02 {
 }
-class Person {  //StaticExercise02.java 2min 时间
+class Person {
     private int id;
     private static int total = 0;
     public static int getTotalPerson() {

@@ -15,6 +15,7 @@ public class CodeBlockDetail04 {
 
 class A02 { //父类
     private static int n1 = getVal01();
+
     static {
         System.out.println("A02的一个静态代码块..");//(2)
     }

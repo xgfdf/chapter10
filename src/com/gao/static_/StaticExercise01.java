@@ -9,7 +9,8 @@ class Test {
         System.out.println("count=" + (count++));
     }
     public static void main(String args[]) {
-        new Test().count(); //9
+        Test test = new Test();
+        test.count();//9
         new Test().count(); //10
         System.out.println(Test.count);	//11
     }
